@@ -6,10 +6,10 @@
   if (document.getElementById('wa-multi-widget')) return;
 
   var contacts = [
-    { label: 'Emma', phone: '6587400124', disp: '8740 0124' },
-    { label: 'Lucas', phone: '6513002039666', disp: '1300 2039 666' },
-    { label: 'Mia', phone: '8619964046593', disp: '199 6404 6593' },
-    { label: 'Leo', phone: '8618902245387', disp: '189 0224 5387' }
+    { label: 'Serena', phone: '8619964046593', disp: '199 6404 6593' },
+    { label: 'Sully', phone: '8618902245387', disp: '189 0224 5387' },
+    { label: 'Tina', phone: '6513002039666', disp: '1300 2039 666' },
+    { label: 'Sam', phone: '6587400124', disp: '8740 0124' }
   ];
 
   var css =
