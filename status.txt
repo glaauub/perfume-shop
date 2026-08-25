@@ -1,0 +1,572 @@
+=== product_mirror 启动 17:07:20 共 436 个 ===
+已完成(跳过): 135
+>>> 先渲染首页获取 WAF cookie...
+>>> [1/436] SKIP acqua-di-parma-blu-mediterraneo-arancia-di-capri-1-5ml
+>>> [2/436] SKIP acqua-di-parma-blu-mediterraneo-arancia-di-capri-5ml
+>>> [3/436] SKIP acqua-di-parma-blu-mediterraneo-bergamotto-di-calabria-1-5ml
+>>> [4/436] SKIP acqua-di-parma-blu-mediterraneo-chinotto-di-liguria-1-5ml
+>>> [5/436] SKIP acqua-di-parma-blu-mediterraneo-fico-di-amalfi-1-5ml
+>>> [6/436] SKIP acqua-di-parma-blu-mediterraneo-fico-di-amalfi-5ml
+>>> [7/436] SKIP acqua-di-parma-blu-mediterraneo-ginepro-di-sardegna-1-5ml
+>>> [8/436] SKIP acqua-di-parma-blu-mediterraneo-mandorlo-di-sicilia-1-5ml
+>>> [9/436] SKIP acqua-di-parma-blu-mediterraneo-mirto-di-panarea-1-5ml
+>>> [10/436] SKIP acqua-di-parma-blu-mediterraneo-mirto-di-panarea-5ml
+>>> [11/436] SKIP acqua-di-parma-essenza-di-colonia-1-5ml
+>>> [12/436] SKIP acqua-di-parma-magnolia-nobile-1-5ml
+>>> [13/436] SKIP acqua-di-parma-oud-eau-de-parfum-1-5ml
+>>> [14/436] SKIP acqua-di-parma-peonia-nobile-1-5ml
+>>> [15/436] SKIP acqua-di-parma-rosa-nobile-1-5ml
+>>> [16/436] SKIP acqua-di-parma-vaniglia-eau-de-parfum-1-5ml
+>>> [17/436] SKIP anna-sui-fantasia-1-5ml
+>>> [18/436] SKIP anna-sui-fantasia-5ml
+>>> [19/436] SKIP anna-sui-fantasia-forever-5ml
+>>> [20/436] SKIP anna-sui-fantasia-mermaid-1-5ml
+>>> [21/436] SKIP anna-sui-fantasia-mermaid-5ml
+>>> [22/436] SKIP anna-sui-lucky-wish-5ml
+>>> [23/436] SKIP anna-sui-secret-wish-1-5ml
+>>> [24/436] SKIP anna-sui-secret-wish-5ml
+>>> [25/436] SKIP anna-sui-serenity-wish-5ml
+>>> [26/436] SKIP atelier-cologne-gaiac-eternel-1-5ml
+>>> [27/436] SKIP atelier-cologne-oolang-infini-1-5ml
+>>> [28/436] SKIP atelier-cologne-orange-sanguine-1-5ml
+>>> [29/436] SKIP atelier-cologne-pomelo-paradis-1-5ml
+>>> [30/436] SKIP burberry-goddess-1-5ml
+>>> [31/436] SKIP burberry-goddess-5ml
+>>> [32/436] SKIP burberry-her-eau-de-toilette-1-5ml-jo69
+>>> [33/436] SKIP burberry-her-eau-de-toilette-1-5ml.html
+>>> [34/436] SKIP burberry-my-burberry-black-1-5ml
+>>> [35/436] SKIP burberry-my-burberry-blush-1-5ml
+>>> [36/436] SKIP bvlgari-aqva-pour-homme-1-5ml
+>>> [37/436] SKIP bvlgari-aqva-pour-homme-marine-1-5ml
+>>> [38/436] SKIP bvlgari-eau-parfumee-au-the-blanc-1-5ml
+>>> [39/436] SKIP bvlgari-eau-parfumee-au-the-vert-1-5ml
+>>> [40/436] SKIP bvlgari-man-wood-essence-1-5ml
+>>> [41/436] SKIP bvlgari-omnia-amethyste-1-5ml
+>>> [42/436] SKIP bvlgari-omnia-amethyste-5ml
+>>> [43/436] SKIP bvlgari-omnia-coral-5ml
+>>> [44/436] SKIP bvlgari-omnia-crystalline-1-5ml
+>>> [45/436] SKIP bvlgari-omnia-crystalline-5ml
+>>> [46/436] SKIP bvlgari-omnia-crystalline-eau-de-parfum-5ml
+>>> [47/436] SKIP bvlgari-petits-et-mamans-1-5ml
+>>> [48/436] SKIP bvlgari-pour-homme-eau-de-toilette-1-5ml
+>>> [49/436] SKIP bvlgari-pour-homme-eau-de-toilette-1-5ml-wxc7
+>>> [50/436] SKIP bvlgari-pour-homme-eau-de-toilette-5ml
+>>> [51/436] SKIP bvlgari-pour-homme-extreme-1-5ml
+>>> [52/436] SKIP bvlgari-pour-homme-soir-1-5ml
+>>> [53/436] SKIP bvlgari-rose-goldea-1-5ml
+>>> [54/436] SKIP byredo-bal-dafrique-1-5ml
+>>> [55/436] SKIP byredo-bibliotheque-1-5ml
+>>> [56/436] SKIP byredo-black-saffron-1-5ml
+>>> [57/436] SKIP byredo-blanche-1-5ml
+>>> [58/436] SKIP byredo-eleventh-hour-1-5ml
+>>> [59/436] SKIP byredo-flowerhead-1-5ml
+>>> [60/436] SKIP byredo-gypsy-water1-5ml
+>>> [61/436] SKIP byredo-inflorescence-1-5ml
+>>> [62/436] SKIP byredo-la-tulipe-1-5ml
+>>> [63/436] SKIP byredo-mixed-emotions-1-5ml
+>>> [64/436] SKIP byredo-mojave-ghost-1-5ml
+>>> [65/436] SKIP byredo-oud-immortel-1-5ml
+>>> [66/436] SKIP byredo-rose-noir-1-5ml
+>>> [67/436] SKIP byredo-rose-of-no-mans-land-1-5ml
+>>> [68/436] SKIP byredo-sundazed1-5ml
+>>> [69/436] SKIP byredo-super-cedar-1-5ml
+>>> [70/436] SKIP celine-black-tie-2ml
+>>> [71/436] SKIP celine-eau-de-californie-2ml
+>>> [72/436] SKIP celine-nightclubbing-2ml
+>>> [73/436] SKIP celine-parade-2ml
+>>> [74/436] SKIP celine-reptile-2ml
+>>> [75/436] SKIP celine-saint-germain-des-pres-2ml
+>>> [76/436] SKIP chabaud-maison-de-parfum-lait-concentre-1-5ml
+>>> [77/436] SKIP chabaud-maison-de-parfum-lait-de-biscuit-1-5ml
+>>> [78/436] SKIP chabaud-maison-de-parfum-lait-de-vanille-1-5ml
+>>> [79/436] SKIP chabaud-maison-de-parfum-lait-et-chocolat-1-5ml
+>>> [80/436] OK imgs=410 chanel-allure-homme-sport-1-5ml.html
+>>> [81/436] OK imgs=450 chanel-bleu-de-chanel-1-5ml.html
+>>> [82/436] SKIP chanel-bleu-de-chanel-10ml-qpq7
+>>> [83/436] OK imgs=490 chanel-bleu-de-chanel-parfum-1-5ml.html
+>>> [84/436] OK imgs=530 chanel-chance-eau-de-toilette-1-5ml.html
+>>> [85/436] SKIP chanel-chance-eau-de-toilette-7-5ml
+>>> [86/436] OK imgs=650 chanel-chance-eau-fraiche-1-5ml.html
+>>> [87/436] SKIP chanel-chance-eau-fraiche-7-5ml
+>>> [88/436] SKIP chanel-chance-eau-splendide-1-5ml
+>>> [89/436] OK imgs=610 chanel-chance-eau-tendre-1-5ml.html
+>>> [90/436] SKIP chanel-chance-eau-tendre-7-5ml
+>>> [91/436] OK imgs=572 chanel-chance-eau-tendre-eau-de-parfum.html
+>>> [92/436] OK imgs=652 chanel-chance-eau-vive-1-5ml.html
+>>> [93/436] OK imgs=652 chanel-coco-mademoiselle-1-5ml.html
+>>> [94/436] SKIP chanel-coco-mademoiselle-7-5ml-j211
+>>> [95/436] OK imgs=690 chanel-coco-mademoiselle-intense-1-5ml.html
+>>> [96/436] OK imgs=690 chanel-coco-noir-hair-mist-1-5ml.html
+>>> [97/436] OK imgs=652 chanel-gabrielle-1-5ml.html
+>>> [98/436] SKIP chanel-gabrielle-edp-10ml
+>>> [99/436] OK imgs=690 chanel-gabrielle-essence-1-5ml.html
+>>> [100/436] SKIP chanel-gabrielle-essence-edp-10ml
+>>> [101/436] OK imgs=690 chanel-n-1-de-chanel-leau-rouge-1-5ml.html
+>>> [102/436] SKIP chanel-n-5-eau-de-parfum-7-5ml
+>>> [103/436] SKIP chanel-n-5-leau-7-5ml
+>>> [104/436] OK imgs=652 chanel-no-5-eau-de-parfum-1-5ml.html
+>>> [105/436] OK imgs=690 chanel-no-5-leau-1-5ml.html
+>>> [106/436] SKIP changing-constance-1-5ml
+>>> [107/436] SKIP chloe-atelier-des-fleurs-cedrus-1-5ml
+>>> [108/436] SKIP chloe-atelier-des-fleurs-cedrus-4ml
+>>> [109/436] SKIP chloe-atelier-des-fleurs-jasminum-sambac-4ml
+>>> [110/436] SKIP chloe-atelier-des-fleurs-magnolia-alba-1-5ml
+>>> [111/436] SKIP chloe-atelier-des-fleurs-magnolia-alba-4ml
+>>> [112/436] SKIP chloe-chloe-eau-de-parfum-1-5ml
+>>> [113/436] SKIP chloe-chloe-eau-de-parfum-1-5ml-cl3m
+>>> [114/436] SKIP chloe-chloe-eau-de-parfum-5ml
+>>> [115/436] SKIP chloe-chloe-eau-de-toilette-1-5ml
+>>> [116/436] SKIP chloe-chloe-roses-de-chloe-1-5ml
+>>> [117/436] SKIP chloe-love-story-1-5ml
+>>> [118/436] SKIP chloe-nomade-eau-de-parfum-1-5ml
+>>> [119/436] SKIP chloe-nomade-eau-de-parfum-1-5ml-q5uu
+>>> [120/436] SKIP chloe-nomade-eau-de-parfum-5ml-q
+>>> [121/436] SKIP daisy-eau-so-fresh-1-5ml
+>>> [122/436] SKIP dior-addict-2-1-5ml-n6k2
+>>> [123/436] SKIP dior-addict2-5ml
+>>> [124/436] SKIP dior-hypnotic-poison-1-5ml
+>>> [125/436] SKIP dior-hypnotic-poison-5ml
+>>> [126/436] SKIP dior-jadore-1-5ml
+>>> [127/436] SKIP dior-jadore-5ml
+>>> [128/436] SKIP dior-jadore-in-joy-1-5ml
+>>> [129/436] SKIP dior-joy-by-dior-1-5ml
+>>> [130/436] SKIP dior-joy-by-dior-5ml
+>>> [131/436] SKIP dior-miss-dior-blooming-bouquet-1-5ml
+>>> [132/436] SKIP dior-miss-dior-blooming-bouquet-5ml
+>>> [133/436] SKIP dior-sauvage-eau-de-parfum-1-5ml
+>>> [134/436] SKIP dior-sauvage-edp-10ml
+>>> [135/436] SKIP diptyque-34-boulevard-saint-germain-2ml
+>>> [136/436] OK imgs=340 diptyque-34-boulevard-saint-germain-eau-de-parfum-2ml.html
+>>> [137/436] SKIP diptyque-do-son-eau-de-parfum-2ml-w5nx
+>>> [138/436] OK imgs=302 diptyque-do-son-eau-de-parfum-2ml.html
+>>> [139/436] SKIP diptyque-do-son-eau-de-toilette-10ml
+>>> [140/436] SKIP diptyque-eau-capitale-eau-de-parfum-2ml-t4na
+>>> [141/436] OK imgs=264 diptyque-eau-capitale-eau-de-parfum-2ml.html
+>>> [142/436] OK imgs=226 diptyque-eau-de-lierre-eau-de-toilette-2ml.html
+>>> [143/436] OK imgs=188 diptyque-eau-de-minthe-2ml.html
+>>> [144/436] SKIP diptyque-eau-des-sens-eau-de-toilette-10ml
+>>> [145/436] SKIP diptyque-eau-des-sens-eau-de-toilette-2ml-mll0
+>>> [146/436] OK imgs=150 diptyque-eau-des-sens-eau-de-toilette-2ml.html
+>>> [147/436] SKIP diptyque-eau-duelle-eau-de-parfum-2ml-kgsz
+>>> [148/436] OK imgs=112 diptyque-eau-duelle-eau-de-parfum-2ml.html
+>>> [149/436] SKIP diptyque-eau-rose-10ml
+>>> [150/436] SKIP diptyque-eau-rose-2ml-9keh
+>>> [151/436] OK imgs=74 diptyque-eau-rose-2ml.html
+>>> [152/436] SKIP diptyque-fleur-de-peau-eau-de-parfum-2ml-zcua
+>>> [153/436] OK imgs=74 diptyque-fleur-de-peau-eau-de-parfum-2ml.html
+>>> [154/436] SKIP diptyque-florabellio-eau-de-toilette-2ml-8a4z
+>>> [155/436] OK imgs=74 diptyque-florabellio-eau-de-toilette-2ml.html
+>>> [156/436] SKIP diptyque-l-ombre-dans-l-eau-eau-de-parfum-2ml-3q5i
+>>> [157/436] OK imgs=74 diptyque-l-ombre-dans-l-eau-eau-de-parfum-2ml.html
+>>> [158/436] SKIP diptyque-l-ombre-dans-l-eau-eau-de-toilette-10ml
+>>> [159/436] SKIP diptyque-olene-eau-de-toilette-10ml
+>>> [160/436] SKIP diptyque-olene-eau-de-toilette-10ml-zi3d
+>>> [161/436] SKIP diptyque-olene-eau-de-toilette-2ml-q0sb
+>>> [162/436] OK imgs=74 diptyque-olene-eau-de-toilette-2ml.html
+>>> [163/436] SKIP diptyque-orpheon-eau-de-parfum-2ml-nxz3
+>>> [164/436] OK imgs=74 diptyque-orpheon-eau-de-parfum-2ml.html
+>>> [165/436] SKIP diptyque-oyedo-2ml-v53d
+>>> [166/436] OK imgs=74 diptyque-oyedo-2ml.html
+>>> [167/436] OK imgs=384 diptyque-philosykos-eau-de-parfum-2ml-cny3
+>>> [168/436] OK imgs=112 diptyque-philosykos-eau-de-parfum-2ml.html
+>>> [169/436] OK imgs=422 diptyque-philosykos-eau-de-toilette-10ml
+>>> [170/436] OK imgs=422 diptyque-tam-dao-eau-de-parfum-2ml-iiw1
+>>> [171/436] OK imgs=188 diptyque-tam-dao-eau-de-parfum-2ml.html
+>>> [172/436] OK imgs=498 diptyque-tam-dao-eau-de-toilette-10ml
+>>> [173/436] OK imgs=454 frederic-malle-rose-tonnerre-une-rose-1-5ml
+>>> [174/436] OK imgs=500 giorgio-armani-acqua-di-gio-1-5ml
+>>> [175/436] OK imgs=378 giorgio-armani-my-way-1-2ml
+>>> [176/436] OK imgs=500 giorgio-armani-my-way-1-5ml
+>>> [177/436] OK imgs=498 giorgio-armani-my-way-7ml
+>>> [178/436] OK imgs=384 giorgio-armani-my-way-parfum-1-2ml
+>>> [179/436] OK imgs=416 giorgio-armani-pivoine-suzhou-2ml
+>>> [180/436] OK imgs=422 giorgio-armani-santal-dan-sha-2ml
+>>> [181/436] OK imgs=538 giorgio-armani-si-passione-1-5ml
+>>> [182/436] OK imgs=536 giorgio-armani-si-passione-7ml
+>>> [183/436] OK imgs=454 giorgio-armani-the-yulong-2ml
+>>> [184/436] OK imgs=574 giorgio-armani-the-yulong-7-5ml-pkld
+>>> [185/436] OK imgs=416 giorgio-armani-vetiver-dhiver-vetiver-babylone-2ml
+>>> [186/436] OK imgs=378 giorgio-si-passione-1-2ml
+>>> [187/436] OK imgs=576 gucci-bamboo-1-5ml
+>>> [188/436] OK imgs=576 gucci-bloom-1-5ml
+>>> [189/436] OK imgs=536 gucci-bloom-1-5ml-yvju
+>>> [190/436] OK imgs=536 gucci-bloom-5ml
+>>> [191/436] OK imgs=614 gucci-bloom-acqua-di-fiori-1-5ml
+>>> [192/436] OK imgs=574 gucci-bloom-acqua-di-fiori-5ml
+>>> [193/436] OK imgs=652 gucci-bloom-ambrosia-di-fiori-1-5ml
+>>> [194/436] OK imgs=650 gucci-bloom-ambrosia-di-fiori-5ml
+>>> [195/436] OK imgs=690 gucci-bloom-nettare-di-fiori-1-5ml
+>>> [196/436] OK imgs=650 gucci-bloom-nettare-di-fiori-5ml
+>>> [197/436] OK imgs=690 gucci-flora-by-gucci-gorgeous-gardenia-1-5ml
+>>> [198/436] OK imgs=650 gucci-flora-by-gucci-gorgeous-gardenia-5ml
+>>> [199/436] OK imgs=652 gucci-flora-gorgeous-gardenia-1-5ml
+>>> [200/436] OK imgs=650 gucci-flora-gorgeous-gardenia-1-5ml-v8sk
+>>> [201/436] OK imgs=650 gucci-flora-gorgeous-gardenia-5ml
+>>> [202/436] OK imgs=650 gucci-flora-gorgeous-jasmine-1-5ml
+>>> [203/436] OK imgs=612 gucci-flora-gorgeous-jasmine-5ml
+>>> [204/436] OK imgs=650 gucci-flora-gorgeous-magnolia-1-5ml
+>>> [205/436] OK imgs=650 gucci-flora-gorgeous-magnolia-5ml
+>>> [206/436] OK imgs=690 gucci-flora-gorgeous-magnolia1-5ml
+>>> [207/436] OK imgs=650 gucci-flora-gorgeous-orchid-1-5ml
+>>> [208/436] OK imgs=690 gucci-guilty-1-5ml
+>>> [209/436] OK imgs=650 gucci-guilty-pour-femme-eau-de-parfum-1-5ml
+>>> [210/436] OK imgs=690 gucci-guilty-pour-homme-1-5ml
+>>> [211/436] OK imgs=652 gucci-memoire-dune-odeur-1-5ml
+>>> [212/436] OK imgs=690 gucci-rush-1-5ml
+>>> [213/436] OK imgs=652 guerlain-aqua-allegoria-mandarine-basilic-1-5ml
+>>> [214/436] OK imgs=650 guerlain-aqua-allegoria-mandarine-basilic-7-5ml
+>>> [215/436] OK imgs=690 guerlain-aqua-allegoria-pera-granita-1-5ml
+>>> [216/436] OK imgs=650 guerlain-aqua-allegoria-rosa-rossa-7-5ml
+>>> [217/436] OK imgs=690 guerlain-la-petite-robe-noire-eau-de-toilette-1-5ml
+>>> [218/436] OK imgs=690 hermes-eau-des-merveilles-1-5ml
+>>> [219/436] OK imgs=690 hermes-h24-1-5ml
+>>> [220/436] OK imgs=651 hermes-le-jardin-de-monsieur-li-1-5ml
+>>> [221/436] OK imgs=650 hermes-le-jardin-de-monsieur-li-7-5ml
+>>> [222/436] OK imgs=652 hermes-terre-dhermes-1-5ml
+>>> [223/436] OK imgs=612 hermes-terre-dhermes-5ml
+>>> [224/436] OK imgs=690 hermes-twilly-d-hermes-1-5ml
+>>> [225/436] OK imgs=652 hermes-twilly-dhermes-eau-poivree-1-5ml
+>>> [226/436] OK imgs=690 hermes-un-jardin-apres-la-mousson-1-5ml-y8tv
+>>> [227/436] OK imgs=652 hermes-un-jardin-en-mediterranee-1-5ml
+>>> [228/436] OK imgs=652 hermes-un-jardin-sur-la-lagune-1-5ml
+>>> [229/436] OK imgs=690 hermes-un-jardin-sur-le-nil-1-5ml
+>>> [230/436] OK imgs=650 hermes-un-jardin-sur-le-nil-7-5ml
+>>> [231/436] OK imgs=690 hermes-un-jardin-sur-le-toit-1-5ml
+>>> [232/436] OK imgs=690 jo-malone-blackberry-bay-1-5ml
+>>> [233/436] OK imgs=650 jo-malone-blackberry-bay-9ml
+>>> [234/436] OK imgs=650 jo-malone-cypress-grapevine-cologne-intense-9ml
+>>> [235/436] OK imgs=650 jo-malone-dark-amber-ginger-lily-9ml
+>>> [236/436] OK imgs=650 jo-malone-english-oak-hazelnut-9ml
+>>> [237/436] OK imgs=690 jo-malone-english-pear-freesia-1-5ml
+>>> [238/436] OK imgs=650 jo-malone-english-pear-freesia-9ml
+>>> [239/436] OK imgs=650 jo-malone-english-pear-freesia-9ml-a5rq
+>>> [240/436] OK imgs=650 jo-malone-english-pear-sweet-pea-9ml
+>>> [241/436] OK imgs=650 jo-malone-fig-lotus-flower-9ml
+>>> [242/436] OK imgs=650 jo-malone-ginger-biscuit-9ml
+>>> [243/436] OK imgs=650 jo-malone-green-almond-redcurrant-9ml
+>>> [244/436] OK imgs=690 jo-malone-honeysuckle-davana-1-5ml
+>>> [245/436] OK imgs=650 jo-malone-honeysuckle-davana-9ml
+>>> [246/436] OK imgs=690 jo-malone-lime-basil-mandarin-1-5ml
+>>> [247/436] OK imgs=650 jo-malone-lime-basil-mandarin-9ml
+>>> [248/436] OK imgs=650 jo-malone-midnight-musk-amber-9ml
+>>> [249/436] OK imgs=690 jo-malone-mimosa-cardamom-1-5ml
+>>> [250/436] OK imgs=650 jo-malone-mimosa-cardamom-9ml
+>>> [251/436] OK imgs=650 jo-malone-myrrh-tonka-9ml
+>>> [252/436] OK imgs=690 jo-malone-nectarine-blossom-honey-1-5ml
+>>> [253/436] OK imgs=650 jo-malone-nectarine-blossom-honey-9ml
+>>> [254/436] OK imgs=612 jo-malone-orange-bitters-9ml
+>>> [255/436] OK imgs=690 jo-malone-orange-blossom-1-5ml
+>>> [256/436] OK imgs=650 jo-malone-orange-marmalade-9ml
+>>> [257/436] OK imgs=650 jo-malone-oud-bergamot-9ml
+>>> [258/436] OK imgs=690 jo-malone-peony-blush-suede-1-5ml
+>>> [259/436] OK imgs=650 jo-malone-peony-blush-suede-9ml
+>>> [260/436] OK imgs=612 jo-malone-pomegranate-noir-9ml
+>>> [261/436] OK imgs=690 jo-malone-poppy-barley-1-5ml
+>>> [262/436] OK imgs=650 jo-malone-poppy-barley-9ml
+>>> [263/436] OK imgs=650 jo-malone-red-hibiscus-9ml-sltq
+>>> [264/436] OK imgs=690 jo-malone-red-roses-1-5ml
+>>> [265/436] OK imgs=650 jo-malone-rose-blush-cologne-9ml
+>>> [266/436] OK imgs=650 jo-malone-rose-magnolia-9ml
+>>> [267/436] OK imgs=650 jo-malone-sakura-cherry-blossom-9ml
+>>> [268/436] OK imgs=650 jo-malone-scarlet-poppy-intense-9ml
+>>> [269/436] OK imgs=650 jo-malone-silver-birch-lavender-cologne-9ml
+>>> [270/436] OK imgs=650 jo-malone-starlit-mandarin-honey-9ml
+>>> [271/436] OK imgs=650 jo-malone-tuberose-angelica-9ml
+>>> [272/436] OK imgs=650 jo-malone-velvet-rose-oud-9ml
+>>> [273/436] OK imgs=650 jo-malone-white-moss-and-snow-drop-9ml
+>>> [274/436] OK imgs=690 jo-malone-wild-bluebell-1-5ml
+>>> [275/436] OK imgs=650 jo-malone-wild-bluebell-9ml
+>>> [276/436] OK imgs=650 jo-malone-wild-bluebell-9ml-kw2e
+>>> [277/436] OK imgs=690 jo-malone-wood-sage-sea-salt-1-5ml
+>>> [278/436] OK imgs=650 jo-malone-wood-sage-sea-salt-9ml
+>>> [279/436] OK imgs=650 jo-malone-wood-sage-sea-salt-9ml-5utj
+>>> [280/436] OK imgs=690 juicy-couture-dirty-english-for-men-1-5ml
+>>> [281/436] OK imgs=650 juliette-has-a-gun-lady-vengeance-1-7ml
+>>> [282/436] OK imgs=650 juliette-has-a-gun-musc-invisible-1-7ml
+>>> [283/436] OK imgs=650 juliette-has-a-gun-not-a-perfume-1-7ml
+>>> [284/436] OK imgs=530 lancome-idole-1-2ml
+>>> [285/436] OK imgs=612 lancome-idole-1-5ml
+>>> [286/436] OK imgs=612 lancome-idole-5ml
+>>> [287/436] OK imgs=652 lancome-la-nuit-tresor-caresse-1-5ml
+>>> [288/436] OK imgs=652 lancome-la-vie-est-belle-1-5ml
+>>> [289/436] OK imgs=614 lancome-miracle-1-5ml
+>>> [290/436] OK imgs=574 lancome-miracle-5ml
+>>> [291/436] OK imgs=652 lartisan-parfumeur-passage-denfer
+>>> [292/436] OK imgs=650 lartisan-parfumeur-passage-denfer-edt-5ml
+>>> [293/436] OK imgs=416 le-labo-another-13-1-5ml.html
+>>> [294/436] OK imgs=340 le-labo-baie-19-1-5ml.html
+>>> [295/436] OK imgs=340 le-labo-bergamote-22-1-5ml.html
+>>> [296/436] OK imgs=264 le-labo-fleur-doranger-27-1-5ml.html
+>>> [297/436] OK imgs=187 le-labo-gaiac-10-tokyo-1-5ml.html
+>>> [298/436] OK imgs=187 le-labo-iris-39-1-5ml.html
+>>> [299/436] OK imgs=232 le-labo-jasmin-17-1-5ml.html
+>>> [300/436] OK imgs=232 le-labo-lys-41-1-5ml.html
+>>> [301/436] OK imgs=270 le-labo-patchouli-24-1-5ml.html
+>>> [302/436] OK imgs=226 le-labo-rose-31-1-5ml.html
+>>> [303/436] OK imgs=264 le-labo-santal-33-1-5ml.html
+>>> [304/436] OK imgs=226 le-labo-the-noir-29-1-5ml.html
+    [IMGFAIL] 9c7c018021ed795a4c334321fa626dfc_1080x.jpg
+    [IMGFAIL] 9c7c018021ed795a4c334321fa626dfc_1024x1024.jpg
+>>> [305/436] OK imgs=264 le-labo-vetiver-46-1-5ml.html
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+>>> [306/436] OK imgs=39 le-labo-ylang-49-1-5ml.html
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [挑战/错误页 real=0 err=False] 冷却重试 4
+>>> [307/436] FAIL loewe-001-man-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+>>> [308/436] OK imgs=538 loewe-001-woman-1-5ml
+>>> [309/436] OK imgs=498 louis-vuitton-afternoon-swim-2ml
+>>> [310/436] OK imgs=536 louis-vuitton-apogee-2ml
+>>> [311/436] OK imgs=574 louis-vuitton-attrape-reves-2ml
+>>> [312/436] OK imgs=130 louis-vuitton-cactus-garden-2ml
+>>> [313/436] OK imgs=611 louis-vuitton-california-dream-2ml
+>>> [314/436] OK imgs=650 louis-vuitton-city-of-stars-2ml
+>>> [315/436] OK imgs=650 louis-vuitton-coeur-battant-2ml
+>>> [316/436] OK imgs=650 louis-vuitton-contre-moi-2ml
+>>> [317/436] OK imgs=650 louis-vuitton-cosmic-cloud-2ml
+>>> [318/436] OK imgs=650 louis-vuitton-dancing-blossom-2ml
+>>> [319/436] OK imgs=650 louis-vuitton-elves-2ml
+>>> [320/436] OK imgs=650 louis-vuitton-etoile-filante-2ml
+>>> [321/436] OK imgs=650 louis-vuitton-heures-dabsence-2ml
+>>> [322/436] OK imgs=650 louis-vuitton-imagination-2ml
+>>> [323/436] OK imgs=650 louis-vuitton-l-immensite-2ml
+>>> [324/436] OK imgs=650 louis-vuitton-le-jour-se-leve-2ml
+>>> [325/436] OK imgs=650 louis-vuitton-les-sables-roses-2ml
+>>> [326/436] OK imgs=650 louis-vuitton-meteore-2ml
+>>> [327/436] OK imgs=650 louis-vuitton-mille-feux-2ml
+>>> [328/436] OK imgs=612 louis-vuitton-ombre-nomade-2ml
+>>> [329/436] OK imgs=650 louis-vuitton-on-the-beach-2ml
+>>> [330/436] OK imgs=650 louis-vuitton-orage-2ml
+>>> [331/436] OK imgs=650 louis-vuitton-pacific-chill-2ml
+>>> [332/436] OK imgs=650 louis-vuitton-rose-des-vents-2ml
+>>> [333/436] OK imgs=650 louis-vuitton-spell-on-you-2ml
+>>> [334/436] OK imgs=650 louis-vuitton-stellar-times-2ml
+>>> [335/436] OK imgs=650 louis-vuitton-sun-song-2ml
+>>> [336/436] OK imgs=650 louis-vuitton-sur-la-route-2ml
+>>> [337/436] OK imgs=650 louis-vuitton-symphony-2ml
+>>> [338/436] OK imgs=650 louis-vuitton-turbulences-2ml
+>>> [339/436] OK imgs=612 louis-vuittonmatiere-noire-2ml
+>>> [340/436] OK imgs=690 maison-francis-kurkdjian-aqua-universalis-1-5ml
+>>> [341/436] OK imgs=690 maison-francis-kurkdjian-baccarat-rouge-540-1-5ml
+>>> [342/436] OK imgs=690 maison-margiela-autumn-vibes-1-5ml
+>>> [343/436] OK imgs=690 maison-margiela-beach-walk-1-5ml-6664
+>>> [344/436] OK imgs=378 maison-margiela-beach-walk-7ml
+>>> [345/436] OK imgs=652 maison-margiela-bubble-bath-1-5ml
+>>> [346/436] OK imgs=652 maison-margiela-by-the-fireplace-1-5ml
+>>> [347/436] OK imgs=340 maison-margiela-by-the-fireplace-7ml
+>>> [348/436] OK imgs=614 maison-margiela-coffee-break-1-5ml
+>>> [349/436] OK imgs=614 maison-margiela-flower-market-1-5ml
+>>> [350/436] OK imgs=302 maison-margiela-flower-market-7ml
+>>> [351/436] OK imgs=576 maison-margiela-jazz-club-1-5ml
+>>> [352/436] OK imgs=264 maison-margiela-jazz-club-7ml
+>>> [353/436] OK imgs=498 maison-margiela-lazy-sunday-morning-1-2ml
+>>> [354/436] OK imgs=576 maison-margiela-lazy-sunday-morning-1-5ml
+>>> [355/436] OK imgs=264 maison-margiela-lazy-sunday-morning-7ml
+>>> [356/436] OK imgs=538 maison-margiela-sailing-day-1-5ml
+>>> [357/436] OK imgs=264 maison-margiela-sailing-day-7ml
+>>> [358/436] OK imgs=576 maison-margiela-springtime-in-a-park-1-5ml
+>>> [359/436] OK imgs=576 maison-margiela-under-the-lemon-tree-1-5ml
+>>> [360/436] OK imgs=264 maison-margiela-under-the-lemon-tree-7ml
+>>> [361/436] OK imgs=576 maison-margiela-when-the-rain-stops-1-5ml
+>>> [362/436] OK imgs=576 maison-margiela-whispers-in-the-library-1-5ml
+>>> [363/436] OK imgs=264 maison-margiela-whispers-in-the-library-7ml
+>>> [364/436] OK imgs=576 marc-jacobs-daisy-dream-1-5ml
+>>> [365/436] OK imgs=536 miss-dior-cherie-eau-de-toilette
+>>> [366/436] OK imgs=614 miu-miu-l-eau-bleue-1-5ml
+>>> [367/436] OK imgs=614 miu-miu-miu-miu-1-5ml-wc9b
+>>> [368/436] OK imgs=652 penhaligons-clandestine-clara-1-5ml
+>>> [369/436] OK imgs=652 penhaligons-halfeti-1-5ml
+>>> [370/436] OK imgs=652 penhaligons-heartless-helen-1-5ml
+>>> [371/436] OK imgs=690 penhaligons-luna-1-5ml
+>>> [372/436] OK imgs=690 penhaligons-much-ado-about-the-duke-1-5ml-zia4
+>>> [373/436] OK imgs=690 penhaligons-roaring-radcliff-1-5ml
+>>> [374/436] OK imgs=690 penhaligons-terrible-teddy-1-5ml
+>>> [375/436] OK imgs=652 penhaligons-the-bewitching-yasmine-1-5ml
+>>> [376/436] OK imgs=690 penhaligons-the-blazing-mr-sam-1-5ml
+>>> [377/436] OK imgs=690 penhaligons-the-coveted-duchess-rose-1-5ml
+>>> [378/436] OK imgs=612 penhaligons-the-coveted-duchess-rose-10ml
+>>> [379/436] OK imgs=690 penhaligons-the-impudent-cousin-matthew-1-5ml
+>>> [380/436] OK imgs=690 penhaligons-the-ingenue-cousin-flora-1-5ml
+>>> [381/436] OK imgs=690 penhaligons-the-inimitable-william-penhaligon-1-5ml
+>>> [382/436] OK imgs=690 penhaligons-the-tragedy-of-lord-george-1-5ml
+>>> [383/436] OK imgs=650 penhaligons-the-tragedy-of-lord-george-10ml
+>>> [384/436] OK imgs=690 penhaligons-the-uncompromising-sohan-1-5ml
+>>> [385/436] OK imgs=690 penhaligons-the-world-according-to-arthur-1-5ml
+>>> [386/436] OK imgs=690 prada-paradoxe-1-5ml
+>>> [387/436] OK imgs=612 prada-paradoxe-7ml
+    [IMGFAIL] 241d78afbb173b275adc152154f73049_180.jpg
+    [IMGFAIL] 74e23471d26280e70be5f26836abe6fc_750x.jpg
+    [IMGFAIL] 6fadddc509f845bbec1621150d458933_180x.jpg
+    [IMGFAIL] 6fadddc509f845bbec1621150d458933_1080x.jpg
+    [IMGFAIL] 70f06552df64326e65e55044ebe58cd9_800x.jpg
+    [IMGFAIL] 6fadddc509f845bbec1621150d458933_1024x1024.jpg
+    [IMGFAIL] 6fadddc509f845bbec1621150d458933_750x.jpg
+    [IMGFAIL] f5205878bb56c642dfb6b059be4741ef_180x.jpg
+    [IMGFAIL] 5bbadf51ad9d3a5f2aba9b3bf01caa36_800x.jpg
+    [IMGFAIL] 74e23471d26280e70be5f26836abe6fc_180x.jpg
+>>> [388/436] OK imgs=690 serge-lutens-feminite-du-bois-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [挑战/错误页 real=0 err=False] 冷却重试 4
+>>> [389/436] FAIL serge-lutens-la-fille-de-berlin-1-5ml
+>>> [390/436] OK imgs=39 serge-lutens-la-fille-de-berlin-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+>>> [391/436] OK imgs=39 serge-lutens-la-religieuse-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [挑战/错误页 real=0 err=False] 冷却重试 4
+>>> [392/436] FAIL serge-lutens-lorpheline-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+>>> [393/436] OK imgs=39 serge-lutens-nuit-de-cellophane-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [ERR Page.goto: net::ERR_TIMED_OUT at https://www.ShengPerfume.com//products/the-revenge-of-lady-blanche-1-5ml
+Call log:
+  - navigating to "https://www.ShengPerfume.com//products/the-revenge-of-lady-blanche-1-5ml", waiting until "domcontentloaded"
+] 重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+>>> [394/436] OK imgs=39 the-revenge-of-lady-blanche-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [挑战/错误页 real=0 err=False] 冷却重试 4
+>>> [395/436] FAIL tom-ford-bitter-peach-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [ERR Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://www.ShengPerfume.com//products/tom-ford-bitter-peach-7-5ml", waiting until "domcontentloaded"
+] 重试 4
+>>> [396/436] FAIL tom-ford-bitter-peach-7-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [挑战/错误页 real=0 err=False] 冷却重试 4
+>>> [397/436] FAIL tom-ford-black-orchid-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [挑战/错误页 real=0 err=False] 冷却重试 4
+>>> [398/436] FAIL tom-ford-cafe-rose-1-5ml
+>>> [399/436] OK imgs=39 tom-ford-costa-azzurra-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [挑战/错误页 real=0 err=False] 冷却重试 4
+>>> [400/436] FAIL tom-ford-eau-de-soleil-blanc-1-5ml
+>>> [401/436] OK imgs=39 tom-ford-fucking-fabulous-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [挑战/错误页 real=0 err=False] 冷却重试 4
+>>> [402/436] FAIL tom-ford-fucking-fabulous-7-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [挑战/错误页 real=0 err=False] 冷却重试 4
+>>> [403/436] FAIL tom-ford-grey-vetiver-1-5ml
+>>> [404/436] OK imgs=39 tom-ford-jasmin-rouge-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [挑战/错误页 real=0 err=False] 冷却重试 4
+>>> [405/436] FAIL tom-ford-lost-cherry-1-5ml
+>>> [406/436] OK imgs=39 tom-ford-lost-cherry-7-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [挑战/错误页 real=0 err=False] 冷却重试 4
+>>> [407/436] FAIL tom-ford-neroli-portofino-1-5ml
+>>> [408/436] OK imgs=39 tom-ford-neroli-portofino-7-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [挑战/错误页 real=0 err=False] 冷却重试 4
+>>> [409/436] FAIL tom-ford-ombre-leather-1-5ml
+>>> [410/436] OK imgs=39 tom-ford-oud-wood-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [挑战/错误页 real=0 err=False] 冷却重试 4
+>>> [411/436] FAIL tom-ford-oud-wood-7-5ml
+>>> [412/436] OK imgs=39 tom-ford-rose-damalfi-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [挑战/错误页 real=0 err=False] 冷却重试 4
+>>> [413/436] FAIL tom-ford-rose-de-chine-1-5ml
+>>> [414/436] OK imgs=39 tom-ford-rose-de-russie-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [挑战/错误页 real=0 err=False] 冷却重试 4
+>>> [415/436] FAIL tom-ford-rose-prick-1-5ml
+>>> [416/436] OK imgs=39 tom-ford-rose-prick-7-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [挑战/错误页 real=0 err=False] 冷却重试 4
+>>> [417/436] FAIL tom-ford-soleil-blanc-1-5ml
+>>> [418/436] OK imgs=39 tom-ford-soleil-blanc-7-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [挑战/错误页 real=0 err=False] 冷却重试 4
+>>> [419/436] FAIL tom-ford-tobacco-oud-1-5ml
+>>> [420/436] OK imgs=39 tom-ford-tubereuse-nue-1-5ml-363b
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [挑战/错误页 real=0 err=False] 冷却重试 4
+>>> [421/436] FAIL tom-ford-white-suede-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+>>> [422/436] OK imgs=39 tom-ford-white-suede-7-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+>>> [423/436] OK imgs=39 versace-bright-crystal-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+    [挑战/错误页 real=0 err=False] 冷却重试 4
+>>> [424/436] FAIL versace-bright-crystal-5ml-c76f
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+>>> [425/436] OK imgs=39 versace-man-eau-fraiche-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+>>> [426/436] OK imgs=39 versace-pour-homme-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+>>> [427/436] OK imgs=39 versace-pour-homme-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+>>> [428/436] OK imgs=39 versace-yellow-diamond-intense-1-5ml-ohs0
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+>>> [429/436] OK imgs=39 ysl-black-opium-7-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+>>> [430/436] OK imgs=39 ysl-laurent-mon-paris-7-5ml
+>>> [431/436] OK imgs=39 ysl-libre-7-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+>>> [432/436] OK imgs=39 ysl-libre-labsolu-platine-1-2ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+>>> [433/436] OK imgs=39 ysl-yves-saint-laurent-black-opium-1-5ml-4ebh
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+>>> [434/436] OK imgs=39 ysl-yves-saint-laurent-libre-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+    [挑战/错误页 real=0 err=False] 冷却重试 2
+    [挑战/错误页 real=0 err=False] 冷却重试 3
+>>> [435/436] OK imgs=39 ysl-yves-saint-laurent-mon-paris-1-5ml
+    [挑战/错误页 real=0 err=False] 冷却重试 1
+>>> [436/436] OK imgs=39 ysl-yves-saint-laurent-y-1-5ml
