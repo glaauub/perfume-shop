@@ -9,7 +9,7 @@
     { label: 'Serena', phone: '8619964046593', disp: '199 6404 6593' },
     { label: 'Sully', phone: '8618902245387', disp: '189 0224 5387' },
     { label: 'Tina', phone: '8613002039666', disp: '1300 2039 666' },
-    { label: 'Sam', phone: '8613002039666', disp: '1300 2039 666' }
+    { label: 'Sam', phone: '6587400124', disp: '8740 0124' }
   ];
 
   var css =
